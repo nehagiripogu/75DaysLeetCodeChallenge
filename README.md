@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
