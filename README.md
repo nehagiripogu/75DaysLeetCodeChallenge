@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
