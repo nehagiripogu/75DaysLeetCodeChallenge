@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -160,9 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
