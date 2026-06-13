@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3093-longest-common-suffix-queries](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3838-weighted-word-mapping](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2716-minimize-string-length](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2716-minimize-string-length) |
 | [3093-longest-common-suffix-queries](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3093-longest-common-suffix-queries) |
+| [3838-weighted-word-mapping](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
