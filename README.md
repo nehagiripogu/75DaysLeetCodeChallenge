@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [1840-maximum-building-height](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0260-single-number-iii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
