@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0541-reverse-string-ii) |
 ## String Matching
