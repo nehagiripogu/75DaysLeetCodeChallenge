@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+| [0365-water-and-jug-problem](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [1840-maximum-building-height](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
