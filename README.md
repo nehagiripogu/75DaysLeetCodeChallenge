@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [1840-maximum-building-height](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
