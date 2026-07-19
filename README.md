@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
+| [1025-divisor-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [1840-maximum-building-height](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
+| [1025-divisor-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -396,4 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
