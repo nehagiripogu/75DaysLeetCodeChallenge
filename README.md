@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2716-minimize-string-length](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2716-minimize-string-length) |
 | [3093-longest-common-suffix-queries](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3093-longest-common-suffix-queries) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3838-weighted-word-mapping](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Breadth-First Search
 |  |
 | ------- |
