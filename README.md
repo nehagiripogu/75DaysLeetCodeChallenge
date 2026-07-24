@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -361,11 +362,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 ## Simulation
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0365-water-and-jug-problem](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
